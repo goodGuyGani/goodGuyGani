@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harzhedzmig@gmail.com**
 
-- 📄 Know about my experiences [https://gani-portfolio.000webhostapp.com/](https://gani-portfolio.000webhostapp.com/)
+- 📄 Know about my experiences [https://goodguygani.github.io/frontend_practice/folio1/](https://goodguygani.github.io/frontend_practice/folio1/)
 
 - ⚡ Fun fact **I love developing apps.**
 
