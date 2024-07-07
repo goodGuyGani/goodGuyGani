@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goodguygani" alt="goodguygani" /></a> </p>
 
-- 🔭 I’m currently working on [Figma Clone]
+- 🔭 I’m currently working on CodePinas HRIS
 
 - 🌱 I’m currently learning **C++, Vue, NextJS, Postgres, many more**
 
