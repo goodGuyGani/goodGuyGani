@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Vue, NextJS, Postgres, many more**
 
-- 👨‍💻 All of my projects are available at [https://gani-portfolio.000webhostapp.com/](https://gani-portfolio.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://goodguygani.github.io/frontend_practice/folio1/](https://goodguygani.github.io/frontend_practice/folio1/)
 
 - 💬 Ask me about **react, vue and gsap**
 
