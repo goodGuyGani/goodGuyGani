@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **C++, Vue, NextJS, Postgres, many more**
 
-- 👨‍💻 All of my projects are available at [https://goodguygani.github.io/frontend_practice/folio1/](https://goodguygani.github.io/frontend_practice/folio1/)
+- 👨‍💻 All of my projects are available at [https://gani-portfolio.vercel.app/](https://gani-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, vue and gsap**
 
 - 📫 How to reach me **harzhedzmig@gmail.com**
 
-- 📄 Know about my experiences [https://goodguygani.github.io/frontend_practice/folio1/](https://goodguygani.github.io/frontend_practice/folio1/)
+- 📄 Know about my experiences [https://gani-portfolio.vercel.app/](https://gani-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I love developing apps.**
 
